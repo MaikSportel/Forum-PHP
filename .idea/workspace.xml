@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4561c866-9345-4126-97d4-be3db250b26e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documenten/Functioneel ontwerp.docx" afterPath="$PROJECT_DIR$/documenten/Functioneel ontwerp.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/css/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/profiel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/register.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/cast.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/comics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/games.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design/serie.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/cast.html" afterPath="$PROJECT_DIR$/design/cast.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/comics.html" afterPath="$PROJECT_DIR$/design/comics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/contact.html" afterPath="$PROJECT_DIR$/design/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/games.html" afterPath="$PROJECT_DIR$/design/games.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/index.html" afterPath="$PROJECT_DIR$/design/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/login.html" afterPath="$PROJECT_DIR$/design/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/serie.html" afterPath="$PROJECT_DIR$/design/serie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/css/style.css" afterPath="$PROJECT_DIR$/design/css/style.css" />
     </list>
     <ignored path="forumphp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,72 +35,62 @@
     <favorites_list name="forumphp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design/index.html">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="53" column="28" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="28" />
+            <state relative-caret-position="-273">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serie.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/serie.html">
+      <file leaf-file-name="serie.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/serie.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="68">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cast.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/cast.html">
+      <file leaf-file-name="cast.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/cast.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="68">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/comics.html">
+      <file leaf-file-name="comics.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/comics.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="85">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="games.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/games.html">
+      <file leaf-file-name="games.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/games.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/contact.html">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="204">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -105,8 +99,62 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+            <state relative-caret-position="1003">
+              <caret line="278" column="1" selection-start-line="278" selection-start-column="1" selection-end-line="278" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+              <folding>
+                <marker date="1496348944984" expanded="true" signature="960:1017" ph="INSERT INTO users... " />
+                <marker date="1496348944984" expanded="true" signature="960:1018" ph="INSERT INTO users... " />
+                <marker date="1496348944984" expanded="true" signature="960:1051" ph="INSERT INTO users... " />
+                <marker date="1496348944984" expanded="true" signature="960:1108" ph="INSERT INTO users... " />
+                <marker date="1496348944984" expanded="true" signature="960:1109" ph="INSERT INTO users... " />
+                <marker date="1496348944984" expanded="true" signature="1813:3194" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="1820:1839" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="1820:1929" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="1936:1952" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="1936:3194" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="1961:2846" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="2019:2057" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="2019:2835" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="2032:2057" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="2382:2810" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="2425:2792" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="2578:2765" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="2855:3194" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="2861:2962" ph="/*...*/" />
+                <marker date="1496348944984" expanded="true" signature="2989:3068" ph="{...}" />
+                <marker date="1496348944984" expanded="true" signature="3162:3194" ph="{...}" />
+                <marker date="1496348944984" expanded="true" signature="4386:4468" ph="..." />
+                <marker date="1496348944984" expanded="true" signature="4415:4458" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profiel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/profiel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,7 +185,16 @@
         <option value="$PROJECT_DIR$/design/contact.html" />
         <option value="$PROJECT_DIR$/design/login.html" />
         <option value="$PROJECT_DIR$/design/index.html" />
+        <option value="$PROJECT_DIR$/design/registreer.php" />
+        <option value="$PROJECT_DIR$/design/login.php" />
+        <option value="$PROJECT_DIR$/design/contact.php" />
+        <option value="$PROJECT_DIR$/design/games.php" />
+        <option value="$PROJECT_DIR$/design/comics.php" />
+        <option value="$PROJECT_DIR$/design/cast.php" />
+        <option value="$PROJECT_DIR$/design/serie.php" />
+        <option value="$PROJECT_DIR$/design/index.php" />
         <option value="$PROJECT_DIR$/design/css/style.css" />
+        <option value="$PROJECT_DIR$/design/register.php" />
       </list>
     </option>
   </component>
@@ -179,15 +236,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane />
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -262,11 +319,12 @@
       <workItem from="1496044820930" duration="35000" />
       <workItem from="1496053957388" duration="3041000" />
       <workItem from="1496068437277" duration="7080000" />
+      <workItem from="1496316273463" duration="11335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27307000" />
+    <option name="totallyTimeSpent" value="38642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -307,62 +365,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/serie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/cast.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/comics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/games.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        <state relative-caret-position="493">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/design/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/index.html" />
+    <entry file="file://$PROJECT_DIR$/design/serie.html" />
+    <entry file="file://$PROJECT_DIR$/design/cast.html" />
+    <entry file="file://$PROJECT_DIR$/design/comics.html" />
+    <entry file="file://$PROJECT_DIR$/design/games.html" />
+    <entry file="file://$PROJECT_DIR$/design/contact.html" />
+    <entry file="file://$PROJECT_DIR$/design/login.html" />
     <entry file="file://$PROJECT_DIR$/design/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -371,62 +396,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/serie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/cast.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/comics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/games.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/design/index.html" />
+    <entry file="file://$PROJECT_DIR$/design/serie.html" />
+    <entry file="file://$PROJECT_DIR$/design/cast.html" />
+    <entry file="file://$PROJECT_DIR$/design/comics.html" />
+    <entry file="file://$PROJECT_DIR$/design/games.html" />
+    <entry file="file://$PROJECT_DIR$/design/contact.html" />
+    <entry file="file://$PROJECT_DIR$/design/login.html" />
     <entry file="file://$PROJECT_DIR$/design/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
@@ -435,62 +411,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/serie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/cast.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/comics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/games.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/design/index.html" />
+    <entry file="file://$PROJECT_DIR$/design/serie.html" />
+    <entry file="file://$PROJECT_DIR$/design/cast.html" />
+    <entry file="file://$PROJECT_DIR$/design/comics.html" />
+    <entry file="file://$PROJECT_DIR$/design/games.html" />
+    <entry file="file://$PROJECT_DIR$/design/contact.html" />
+    <entry file="file://$PROJECT_DIR$/design/login.html" />
     <entry file="file://$PROJECT_DIR$/design/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
@@ -499,14 +426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/design/index.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -520,67 +440,138 @@
     <entry file="file://$PROJECT_DIR$/design/achtergrond.html" />
     <entry file="file://$PROJECT_DIR$/design/style.css" />
     <entry file="file://$PROJECT_DIR$/design/Img/Achtergrond.jpg" />
-    <entry file="file://$PROJECT_DIR$/design/serie.html">
+    <entry file="file://$PROJECT_DIR$/design/serie.html" />
+    <entry file="file://$PROJECT_DIR$/design/cast.html" />
+    <entry file="file://$PROJECT_DIR$/design/comics.html" />
+    <entry file="file://$PROJECT_DIR$/design/games.html" />
+    <entry file="file://$PROJECT_DIR$/design/contact.html" />
+    <entry file="file://$PROJECT_DIR$/design/login.html" />
+    <entry file="file://$PROJECT_DIR$/design/index.html" />
+    <entry file="file://$PROJECT_DIR$/design/registreer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="491">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/cast.html">
+    <entry file="file://$PROJECT_DIR$/design/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="204">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/comics.html">
+    <entry file="file://$PROJECT_DIR$/design/games.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/games.html">
+    <entry file="file://$PROJECT_DIR$/design/comics.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/contact.html">
+    <entry file="file://$PROJECT_DIR$/design/cast.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/login.html">
+    <entry file="file://$PROJECT_DIR$/design/serie.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/css/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        <state relative-caret-position="1003">
+          <caret line="278" column="1" selection-start-line="278" selection-start-column="1" selection-end-line="278" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/index.html">
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/config.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="53" column="28" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/profiel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+          <folding>
+            <marker date="1496348944984" expanded="true" signature="960:1017" ph="INSERT INTO users... " />
+            <marker date="1496348944984" expanded="true" signature="960:1018" ph="INSERT INTO users... " />
+            <marker date="1496348944984" expanded="true" signature="960:1051" ph="INSERT INTO users... " />
+            <marker date="1496348944984" expanded="true" signature="960:1108" ph="INSERT INTO users... " />
+            <marker date="1496348944984" expanded="true" signature="960:1109" ph="INSERT INTO users... " />
+            <marker date="1496348944984" expanded="true" signature="1813:3194" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="1820:1839" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="1820:1929" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="1936:1952" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="1936:3194" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="1961:2846" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="2019:2057" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="2019:2835" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="2032:2057" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="2382:2810" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="2425:2792" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="2578:2765" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="2855:3194" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="2861:2962" ph="/*...*/" />
+            <marker date="1496348944984" expanded="true" signature="2989:3068" ph="{...}" />
+            <marker date="1496348944984" expanded="true" signature="3162:3194" ph="{...}" />
+            <marker date="1496348944984" expanded="true" signature="4386:4468" ph="..." />
+            <marker date="1496348944984" expanded="true" signature="4415:4458" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

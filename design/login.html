@@ -2,9 +2,52 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Login</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-$END$
+<section class="header">
+    <img class="titel" src="css/img/titel.png">
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a> </li>
+            <li><a href="serie.html">Serie</a> </li>
+            <li><a href="cast.html">Cast</a> </li>
+            <li><a href="comics.html">Comics</a> </li>
+            <li><a href="games.html">Games</a> </li>
+            <li><a href="contact.html">Contact</a> </li>
+            <li class="container">
+                <section class="dropdown">
+                    <button class="dropbtn" onclick="myFunction()">Login</button>
+                    <section class="dropdown-content" id="myDropdown">
+                        <a href="#">Login</a>
+                        <a href="#">Profiel</a>
+                        <a href="#">Registreer</a>
+                    </section>
+                </section>
+            </li>
+        </ul>
+    </nav>
+</section>
+<section class="bloklogin">
+    <form>
+        <input required type="text" class="email" name="email" placeholder="E-Mail">
+        <input required type="password" class="wachtwoord" name="password">
+        <input type="hidden" name="submit" value="true">
+        <input type="submit" class="loginknop" id="submit" value="Login">
+        <li href="registreren.html"> <input type="button" class="registerknop" value="Registreren"></li>
+    </form>
+
+
+
+</section>
+
+
+<footer>
+    <section class="footer">
+        Copyright by Maik ©
+    </section>
+</footer>
+
 </body>
 </html>

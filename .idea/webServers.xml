@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="383021b1-19da-42d6-a779-12993c77a67b" name="phpfromxampp" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\forumphp" accessType="MOUNT" />
+      <webServer id="6c674436-bdba-443f-a834-edb548f12591" name="php from xampp" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\1forumphp" accessType="MOUNT" />
       </webServer>
     </option>
   </component>

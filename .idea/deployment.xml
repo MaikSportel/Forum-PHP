@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="phpfromxampp">
+  <component name="PublishConfigData" serverName="php from xampp">
     <serverData>
-      <paths name="phpfromxampp">
+      <paths name="php from xampp">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

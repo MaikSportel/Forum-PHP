@@ -22,7 +22,7 @@
                     <section class="dropdown-content" id="myDropdown">
                         <a href="login.php">Login</a>
                         <a href="#">Profiel</a>
-                        <a href="register.php">Registreer</a>
+                        <a href="form.php">Registreer</a>
                     </section>
                 </section>
             </li>
